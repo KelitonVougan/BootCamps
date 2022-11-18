@@ -1,0 +1,6 @@
+Criar aplicações funcionais:
+Calcular IMC
+Calcular gasto viagem
+Calcular diferença datas (anos, meses, dias, horas, minutos e segundos)
+
+TESTE
